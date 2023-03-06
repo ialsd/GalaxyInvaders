@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>alien.png</file>
+        <file>ball.png</file>
+        <file>player.png</file>
+        <file>stone.png</file>
+        <file>background.png</file>
+        <file>redball.png</file>
+        <file>boom.gif</file>
+        <file>bonus_life.png</file>
+        <file>bonus_speed.png</file>
+        <file>bonus_x2.png</file>
+    </qresource>
+</RCC>
